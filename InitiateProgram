@@ -1,0 +1,11 @@
+1º start mongodb
+    E:\MongoDB\Server\4.2\bin\mongod.exe --dbpath "E:\Documentos\Ciencias da Computacao\ProgAvançada\TrabalhoProgWebAvan\Data\db"
+
+2º test if connection sucesseded
+    E:\MongoDB\Server\4.2\bin\mongo
+
+3º run build
+    npm run build
+
+4º start
+    npm start
